@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Recall</string>
+    <string name="search">Search</string>
+    <string name="menu_item_notification">Notifications</string>
+
+    <string name="navigation_open">Open</string>
+    <string name="navigation_close">Close</string>
+
+    <string name="tab_item_history">History</string>
+    <string name="tab_item_ideas">Ideas</string>
+    <string name="tab_item_todo">TODO</string>
+    <string name="tab_item_birthdays">Birthdays</string>
+</resources>
